@@ -1,0 +1,58 @@
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\bin\Debug\FisrtDay.exe.config
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\bin\Debug\FisrtDay.exe
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\bin\Debug\FisrtDay.pdb
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\FisrtDay.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\FisrtDay_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\FisrtDay_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\FisrtDay.g.resources
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\FisrtDay.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\FisrtDay.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\FisrtDay.exe
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\FisrtDay.pdb
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\BuyWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\BuyWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\AddNewCompaniesWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\SaleWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\AddNewCompaniesWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\SaleWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\FisrtDay_Content.g.cs
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\AddNewCategoryWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\AddNewCategoryWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\AddNewUnitWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\FisrtDay\FisrtDay\obj\Debug\AddNewUnitWindow.baml
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\bin\Debug\FisrtDay.exe.config
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\FisrtDay.exe
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\FisrtDay.pdb
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\bin\Debug\FisrtDay.exe
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\bin\Debug\FisrtDay.pdb
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\FisrtDay.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\AddNewCategoryWindow.g.cs
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\AddNewCompaniesWindow.g.cs
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\AddNewUnitWindow.g.cs
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\BuyWindow.g.cs
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\SaleWindow.g.cs
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\App.g.cs
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\FisrtDay_Content.g.cs
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\FisrtDay_MarkupCompile.cache
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\FisrtDay_MarkupCompile.lref
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\AddNewCategoryWindow.baml
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\AddNewCompaniesWindow.baml
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\AddNewUnitWindow.baml
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\BuyWindow.baml
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\SaleWindow.baml
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\FisrtDay.g.resources
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\FisrtDay.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\Daily-Tasks-First-Day\FisrtDay\FisrtDay\obj\Debug\FisrtDay.csproj.GenerateResource.Cache
